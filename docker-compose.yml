@@ -1,0 +1,9 @@
+services:
+  jekyll:
+    image: ruby:3
+    ports:
+      - 4002:4000
+    volumes:
+      - .:/site
+    working_dir: /site
+    entrypoint: sh postinstall

@@ -1,7 +1,7 @@
 # Site settings
-title:
-email:
-description: > # this means to ignore newlines until "baseurl:"
+title: Bujia Project Music
+email: bujiaprojectmusic@gmail.com
+description: > ¡Hola a todos los amantes de las seis y cuatro cuerdas! 🎸✨ Estamos emocionados de darles la bienvenida a nuestro proyecto, donde la pasión por la música y la magia de las guitarras y bajos se unen. 💫🎶 Si tu instrumento necesita un poco de cariño, estamos aquí para hacerlo sonar como nunca antes. 🛠️🎵 Únete a nosotros en este viaje musical y juntos haremos que la música suene mejor que nunca. 🤘😄
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 

@@ -1,0 +1,5 @@
+#!/bin/bash
+gem install jekyll bundler rexml
+bundle init
+bundle add jekyll bundler rexml
+bundle exec jekyll serve --host 0.0.0.0
